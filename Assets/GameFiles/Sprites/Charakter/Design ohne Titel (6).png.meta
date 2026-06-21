@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: c3336ed4ac213924ba99a581ac6ac70f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1970130939766379152
+    second: Design ohne Titel (6)_0
+  - first:
+      213: -7007501923493545074
+    second: Design ohne Titel (6)_1
+  - first:
+      213: 4440048199524713999
+    second: Design ohne Titel (6)_2
+  - first:
+      213: -5769977602111789192
+    second: Design ohne Titel (6)_3
+  - first:
+      213: 8309241057250604424
+    second: Design ohne Titel (6)_4
+  - first:
+      213: -2746129748264118683
+    second: Design ohne Titel (6)_5
+  - first:
+      213: -2128836664496061765
+    second: Design ohne Titel (6)_6
+  - first:
+      213: 8687907090091716105
+    second: Design ohne Titel (6)_7
+  - first:
+      213: -1857356183877559161
+    second: Design ohne Titel (6)_8
+  - first:
+      213: -112294006303977423
+    second: Design ohne Titel (6)_9
+  - first:
+      213: -503339281436171081
+    second: Design ohne Titel (6)_10
+  - first:
+      213: 2622128318565134608
+    second: Design ohne Titel (6)_11
+  - first:
+      213: -219902437884595120
+    second: Design ohne Titel (6)_12
+  - first:
+      213: 4415675987283612198
+    second: Design ohne Titel (6)_13
+  - first:
+      213: 2215101955403969909
+    second: Design ohne Titel (6)_14
+  - first:
+      213: 5707670656422929267
+    second: Design ohne Titel (6)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1038
+        width: 160
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de7363950b8a4e0800000000000000
+      internalID: -1970130939766379152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1038
+        width: 161
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bfc4fb02a50ce90800000000000000
+      internalID: -7007501923493545074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1038
+        width: 160
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06884620583e9d30800000000000000
+      internalID: 4440048199524713999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1038
+        width: 161
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877aa2801fbecefa0800000000000000
+      internalID: -5769977602111789192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 720
+        width: 156
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8857382a7ba505370800000000000000
+      internalID: 8309241057250604424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 720
+        width: 157
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56695972b89c3e9d0800000000000000
+      internalID: -2746129748264118683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 720
+        width: 157
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb282eb255ad472e0800000000000000
+      internalID: -2128836664496061765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_7
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 720
+        width: 156
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ea38ac775a19870800000000000000
+      internalID: 8687907090091716105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 405
+        width: 148
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c5a9634685936e0800000000000000
+      internalID: -1857356183877559161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 409
+        width: 149
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13098db323d017ef0800000000000000
+      internalID: -112294006303977423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 405
+        width: 148
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b42f702797c309f0800000000000000
+      internalID: -503339281436171081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_11
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 409
+        width: 149
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011319720dba36420800000000000000
+      internalID: 2622128318565134608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 148
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05475a8d5efb2fcf0800000000000000
+      internalID: -219902437884595120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 133
+        width: 148
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62213494ae1a74d30800000000000000
+      internalID: 4415675987283612198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 129
+        width: 148
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57570290e7f9dbe10800000000000000
+      internalID: 2215101955403969909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design ohne Titel (6)_15
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 133
+        width: 148
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3736203b838b53f40800000000000000
+      internalID: 5707670656422929267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Design ohne Titel (6)_0: -1970130939766379152
+      Design ohne Titel (6)_1: -7007501923493545074
+      Design ohne Titel (6)_10: -503339281436171081
+      Design ohne Titel (6)_11: 2622128318565134608
+      Design ohne Titel (6)_12: -219902437884595120
+      Design ohne Titel (6)_13: 4415675987283612198
+      Design ohne Titel (6)_14: 2215101955403969909
+      Design ohne Titel (6)_15: 5707670656422929267
+      Design ohne Titel (6)_2: 4440048199524713999
+      Design ohne Titel (6)_3: -5769977602111789192
+      Design ohne Titel (6)_4: 8309241057250604424
+      Design ohne Titel (6)_5: -2746129748264118683
+      Design ohne Titel (6)_6: -2128836664496061765
+      Design ohne Titel (6)_7: 8687907090091716105
+      Design ohne Titel (6)_8: -1857356183877559161
+      Design ohne Titel (6)_9: -112294006303977423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

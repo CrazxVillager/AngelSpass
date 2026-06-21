@@ -4,23 +4,25 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private PlayerData playerData;
-    
+
     private Vector2 _moveDirection;
-    
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private Animator _animator;
+
+    private void Awake()
     {
-        
+        _animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        transform.Translate(_moveDirection * (playerData.PlayerSpeed * Time.deltaTime));
+        transform.Translate(_moveDirection * playerData.PlayerSpeed * Time.deltaTime);
+
+        _animator.SetFloat("Horizontal", _moveDirection.x);
+        _animator.SetFloat("Vertical", _moveDirection.y);
     }
 
-    public void Move(InputAction.CallbackContext context)
+    public void OnMove(InputValue value)
     {
-        _moveDirection = context.ReadValue<Vector2>();
+        _moveDirection = value.Get<Vector2>();
     }
 }
